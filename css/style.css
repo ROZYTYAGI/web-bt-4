@@ -1,0 +1,48 @@
+
+html,
+body {
+	height: 100%;
+}
+#cover{
+	background: url("../img/hall1.jpg") bottom center no-repeat;
+	background-size: cover;
+	color: white;
+	height: 80%;
+	text-align: center;
+	display: flex;
+	align-items: center;
+}
+.sec{
+	margin-left: 250px;
+	width: 560px;
+	}
+	
+	footer{
+  color: white;
+}
+footer a{
+  color: #bfffff;
+}
+footer a:hover{
+  color: white;
+}
+
+.footer-bottom{
+  background: #3d6277;
+  padding: 2em;
+}
+.footer-top{
+  background: #2d4958;  
+}
+.footer-middle{
+   background: #3d6277;
+  padding-top: 2em;
+  color: white;
+}
+
+
+/**Sub Navigation**/
+.dv img{
+height: 300px;
+width: 100%;
+}
